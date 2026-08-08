@@ -4,8 +4,6 @@ Atendimento automatizado no WhatsApp com Inteligência Artificial para a imobili
 
 O bot recebe mensagens, gera respostas naturais com o modelo Llama (via Groq) e responde automaticamente os clientes 24h por dia. 
 
-(Código roda localmente, executando funções apenas com computador ligado. Caso deseje que ele rode 24/7 com funcionalidade, deve hospedar em vps na hostinger ou hostgator e utilizar a openclaw entre outros agentes que funcionam 24 horas na nuvem).
-
 ---
 
 ## 🛠️ Stack
@@ -20,5 +18,6 @@ O bot recebe mensagens, gera respostas naturais com o modelo Llama (via Groq) e 
 
 ---
 
-## 📁 Estrutura
-# agentedeia
+## 📁 # Agentedeia
+
+(Código roda localmente, executando funções apenas com computador ligado. Caso deseje que ele rode 24/7 com funcionalidade, deve hospedar em vps na hostinger ou hostgator e utilizar a openclaw entre outros agentes que funcionam 24 horas na nuvem).

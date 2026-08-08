@@ -20,4 +20,4 @@ O bot recebe mensagens, gera respostas naturais com o modelo Llama (via Groq) e 
 
 ## 📁 # Agentedeia
 
-(Código roda localmente, executando funções apenas com computador ligado. Caso deseje que ele rode 24/7 com funcionalidade, deve hospedar em vps na hostinger ou hostgator e utilizar a openclaw entre outros agentes que funcionam 24 horas na nuvem).
+(Código roda localmente, executando funções apenas com computador ligado. Caso deseje que ele rode 24/7 com funcionalidade, deve hospedar em vps na hostinger ou hostgator e utilizar a openclaw entre outros agentes de ia que funcionam 24 horas na nuvem).
